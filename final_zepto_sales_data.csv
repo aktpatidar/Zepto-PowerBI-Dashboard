@@ -1,0 +1,301 @@
+product_name,category,city,original_price,selling_price,order_count,total_revenue,total_profit,profit_per_order
+Britannia Cake,Snacks,Delhi,148,163,283,46129,4245,15
+Britannia Cake,Snacks,Pune,81,86,284,24424,1420,5
+Fortune Oil 1L,Grocery,Hyderabad,138,143,69,9867,345,5
+Pepsi 500ml,Beverages,Delhi,127,127,83,10541,0,0
+Aashirvaad Atta,Grocery,Chennai,34,49,169,8281,2535,15
+Amul Milk 500ml,Dairy,Delhi,149,159,246,39114,2460,10
+Britannia Cake,Snacks,Bangalore,82,87,254,22098,1270,5
+Amul Milk 500ml,Dairy,Bangalore,46,51,179,9129,895,5
+Aashirvaad Atta,Grocery,Mumbai,137,137,268,36716,0,0
+Maggi Noodles,Instant Food,Hyderabad,196,201,59,11859,295,5
+Maggi Noodles,Instant Food,Hyderabad,109,114,241,27474,1205,5
+Maggi Noodles,Instant Food,Mumbai,28,28,281,7868,0,0
+Maggi Noodles,Instant Food,Pune,130,135,76,10260,380,5
+Oreo Biscuits,Snacks,Bangalore,125,125,155,19375,0,0
+Aashirvaad Atta,Grocery,Delhi,56,66,89,5874,890,10
+Coca Cola 1L,Beverages,Pune,50,50,118,5900,0,0
+Britannia Cake,Snacks,Delhi,80,85,232,19720,1160,5
+Pepsi 500ml,Beverages,Bangalore,164,174,100,17400,1000,10
+Parle-G,Snacks,Chennai,102,107,254,27178,1270,5
+Nestle Munch,Confectionery,Mumbai,195,205,223,45715,2230,10
+Pepsi 500ml,Beverages,Hyderabad,154,159,253,40227,1265,5
+Amul Milk 500ml,Dairy,Pune,120,135,291,39285,4365,15
+Parle-G,Snacks,Chennai,144,144,186,26784,0,0
+Maggi Noodles,Instant Food,Mumbai,118,123,124,15252,620,5
+Pepsi 500ml,Beverages,Hyderabad,41,51,53,2703,530,10
+Maggi Noodles,Instant Food,Bangalore,147,147,167,24549,0,0
+Fortune Oil 1L,Grocery,Pune,111,121,227,27467,2270,10
+Coca Cola 1L,Beverages,Mumbai,182,192,56,10752,560,10
+Pepsi 500ml,Beverages,Mumbai,160,160,150,24000,0,0
+Britannia Cake,Snacks,Chennai,175,175,210,36750,0,0
+Maggi Noodles,Instant Food,Pune,122,127,122,15494,610,5
+Maggi Noodles,Instant Food,Hyderabad,124,139,58,8062,870,15
+Oreo Biscuits,Snacks,Pune,159,164,83,13612,415,5
+Amul Milk 500ml,Dairy,Hyderabad,142,157,196,30772,2940,15
+Aashirvaad Atta,Grocery,Pune,80,90,246,22140,2460,10
+Oreo Biscuits,Snacks,Bangalore,20,25,82,2050,410,5
+Britannia Cake,Snacks,Mumbai,138,138,129,17802,0,0
+Pepsi 500ml,Beverages,Mumbai,87,97,126,12222,1260,10
+Coca Cola 1L,Beverages,Mumbai,91,91,239,21749,0,0
+Britannia Cake,Snacks,Bangalore,108,113,56,6328,280,5
+Coca Cola 1L,Beverages,Pune,188,198,81,16038,810,10
+Nestle Munch,Confectionery,Mumbai,74,74,68,5032,0,0
+Parle-G,Snacks,Chennai,96,101,299,30199,1495,5
+Oreo Biscuits,Snacks,Delhi,177,187,143,26741,1430,10
+Coca Cola 1L,Beverages,Mumbai,191,201,73,14673,730,10
+Fortune Oil 1L,Grocery,Chennai,128,143,231,33033,3465,15
+Fortune Oil 1L,Grocery,Chennai,118,128,287,36736,2870,10
+Nestle Munch,Confectionery,Mumbai,123,123,207,25461,0,0
+Pepsi 500ml,Beverages,Bangalore,86,86,198,17028,0,0
+Coca Cola 1L,Beverages,Hyderabad,176,186,171,31806,1710,10
+Fortune Oil 1L,Grocery,Pune,137,147,52,7644,520,10
+Parle-G,Snacks,Pune,62,72,130,9360,1300,10
+Coca Cola 1L,Beverages,Pune,80,90,226,20340,2260,10
+Amul Milk 500ml,Dairy,Mumbai,37,37,209,7733,0,0
+Aashirvaad Atta,Grocery,Chennai,45,45,94,4230,0,0
+Aashirvaad Atta,Grocery,Delhi,68,83,101,8383,1515,15
+Maggi Noodles,Instant Food,Hyderabad,182,197,294,57918,4410,15
+Oreo Biscuits,Snacks,Delhi,188,203,279,56637,4185,15
+Pepsi 500ml,Beverages,Delhi,135,140,162,22680,810,5
+Amul Milk 500ml,Dairy,Hyderabad,193,193,159,30687,0,0
+Parle-G,Snacks,Mumbai,150,165,179,29535,2685,15
+Aashirvaad Atta,Grocery,Hyderabad,160,165,244,40260,1220,5
+Oreo Biscuits,Snacks,Mumbai,123,138,174,24012,2610,15
+Amul Milk 500ml,Dairy,Hyderabad,99,104,211,21944,1055,5
+Coca Cola 1L,Beverages,Delhi,140,140,269,37660,0,0
+Pepsi 500ml,Beverages,Hyderabad,185,185,200,37000,0,0
+Britannia Cake,Snacks,Chennai,172,172,132,22704,0,0
+Parle-G,Snacks,Bangalore,139,144,253,36432,1265,5
+Parle-G,Snacks,Mumbai,180,190,156,29640,1560,10
+Aashirvaad Atta,Grocery,Pune,155,165,74,12210,740,10
+Aashirvaad Atta,Grocery,Pune,105,105,295,30975,0,0
+Maggi Noodles,Instant Food,Mumbai,49,49,99,4851,0,0
+Pepsi 500ml,Beverages,Bangalore,53,63,179,11277,1790,10
+Coca Cola 1L,Beverages,Mumbai,99,109,297,32373,2970,10
+Aashirvaad Atta,Grocery,Delhi,159,174,138,24012,2070,15
+Nestle Munch,Confectionery,Hyderabad,191,191,211,40301,0,0
+Pepsi 500ml,Beverages,Pune,186,186,66,12276,0,0
+Fortune Oil 1L,Grocery,Pune,114,114,283,32262,0,0
+Britannia Cake,Snacks,Hyderabad,20,35,257,8995,3855,15
+Coca Cola 1L,Beverages,Hyderabad,177,187,299,55913,2990,10
+Parle-G,Snacks,Pune,151,156,52,8112,260,5
+Oreo Biscuits,Snacks,Hyderabad,32,47,147,6909,2205,15
+Coca Cola 1L,Beverages,Delhi,55,60,208,12480,1040,5
+Maggi Noodles,Instant Food,Bangalore,37,52,163,8476,2445,15
+Maggi Noodles,Instant Food,Hyderabad,170,175,294,51450,1470,5
+Fortune Oil 1L,Grocery,Pune,29,29,132,3828,0,0
+Oreo Biscuits,Snacks,Delhi,57,57,247,14079,0,0
+Oreo Biscuits,Snacks,Bangalore,179,194,257,49858,3855,15
+Aashirvaad Atta,Grocery,Pune,63,73,67,4891,670,10
+Aashirvaad Atta,Grocery,Hyderabad,136,136,286,38896,0,0
+Aashirvaad Atta,Grocery,Hyderabad,165,175,211,36925,2110,10
+Coca Cola 1L,Beverages,Mumbai,50,60,270,16200,2700,10
+Nestle Munch,Confectionery,Mumbai,180,185,163,30155,815,5
+Pepsi 500ml,Beverages,Hyderabad,32,47,120,5640,1800,15
+Fortune Oil 1L,Grocery,Pune,97,112,187,20944,2805,15
+Pepsi 500ml,Beverages,Delhi,181,186,54,10044,270,5
+Pepsi 500ml,Beverages,Chennai,184,194,86,16684,860,10
+Pepsi 500ml,Beverages,Pune,57,62,236,14632,1180,5
+Coca Cola 1L,Beverages,Bangalore,50,50,163,8150,0,0
+Oreo Biscuits,Snacks,Hyderabad,115,120,122,14640,610,5
+Fortune Oil 1L,Grocery,Bangalore,120,135,138,18630,2070,15
+Pepsi 500ml,Beverages,Delhi,125,125,146,18250,0,0
+Parle-G,Snacks,Bangalore,148,153,171,26163,855,5
+Fortune Oil 1L,Grocery,Hyderabad,73,78,82,6396,410,5
+Maggi Noodles,Instant Food,Delhi,31,46,109,5014,1635,15
+Amul Milk 500ml,Dairy,Chennai,199,204,269,54876,1345,5
+Pepsi 500ml,Beverages,Hyderabad,184,199,69,13731,1035,15
+Nestle Munch,Confectionery,Hyderabad,151,151,57,8607,0,0
+Fortune Oil 1L,Grocery,Hyderabad,23,28,276,7728,1380,5
+Coca Cola 1L,Beverages,Chennai,83,93,148,13764,1480,10
+Pepsi 500ml,Beverages,Bangalore,138,153,182,27846,2730,15
+Oreo Biscuits,Snacks,Bangalore,116,131,283,37073,4245,15
+Britannia Cake,Snacks,Delhi,98,113,233,26329,3495,15
+Oreo Biscuits,Snacks,Chennai,176,186,150,27900,1500,10
+Nestle Munch,Confectionery,Hyderabad,65,75,168,12600,1680,10
+Pepsi 500ml,Beverages,Hyderabad,48,53,192,10176,960,5
+Coca Cola 1L,Beverages,Pune,101,101,294,29694,0,0
+Parle-G,Snacks,Bangalore,75,90,55,4950,825,15
+Britannia Cake,Snacks,Bangalore,132,132,255,33660,0,0
+Parle-G,Snacks,Hyderabad,140,155,85,13175,1275,15
+Nestle Munch,Confectionery,Delhi,87,87,199,17313,0,0
+Parle-G,Snacks,Hyderabad,187,187,131,24497,0,0
+Amul Milk 500ml,Dairy,Bangalore,156,166,144,23904,1440,10
+Maggi Noodles,Instant Food,Bangalore,174,189,162,30618,2430,15
+Amul Milk 500ml,Dairy,Bangalore,135,145,71,10295,710,10
+Nestle Munch,Confectionery,Hyderabad,77,92,50,4600,750,15
+Coca Cola 1L,Beverages,Mumbai,80,90,249,22410,2490,10
+Nestle Munch,Confectionery,Hyderabad,84,84,272,22848,0,0
+Maggi Noodles,Instant Food,Mumbai,94,94,219,20586,0,0
+Maggi Noodles,Instant Food,Bangalore,88,103,237,24411,3555,15
+Amul Milk 500ml,Dairy,Pune,169,184,267,49128,4005,15
+Oreo Biscuits,Snacks,Chennai,101,101,107,10807,0,0
+Aashirvaad Atta,Grocery,Hyderabad,141,141,150,21150,0,0
+Aashirvaad Atta,Grocery,Hyderabad,78,93,255,23715,3825,15
+Britannia Cake,Snacks,Delhi,181,186,88,16368,440,5
+Parle-G,Snacks,Delhi,134,144,206,29664,2060,10
+Pepsi 500ml,Beverages,Mumbai,147,152,122,18544,610,5
+Nestle Munch,Confectionery,Pune,27,42,296,12432,4440,15
+Nestle Munch,Confectionery,Chennai,97,107,55,5885,550,10
+Coca Cola 1L,Beverages,Bangalore,183,183,132,24156,0,0
+Coca Cola 1L,Beverages,Mumbai,187,202,124,25048,1860,15
+Parle-G,Snacks,Delhi,64,64,87,5568,0,0
+Parle-G,Snacks,Hyderabad,60,65,246,15990,1230,5
+Britannia Cake,Snacks,Pune,81,96,188,18048,2820,15
+Pepsi 500ml,Beverages,Chennai,48,63,52,3276,780,15
+Pepsi 500ml,Beverages,Bangalore,44,44,161,7084,0,0
+Amul Milk 500ml,Dairy,Chennai,173,188,86,16168,1290,15
+Maggi Noodles,Instant Food,Bangalore,42,42,110,4620,0,0
+Parle-G,Snacks,Chennai,147,147,284,41748,0,0
+Amul Milk 500ml,Dairy,Chennai,44,44,103,4532,0,0
+Coca Cola 1L,Beverages,Chennai,149,159,93,14787,930,10
+Fortune Oil 1L,Grocery,Delhi,42,57,241,13737,3615,15
+Amul Milk 500ml,Dairy,Chennai,134,134,82,10988,0,0
+Pepsi 500ml,Beverages,Chennai,67,77,93,7161,930,10
+Amul Milk 500ml,Dairy,Mumbai,198,198,172,34056,0,0
+Nestle Munch,Confectionery,Bangalore,141,151,65,9815,650,10
+Maggi Noodles,Instant Food,Pune,77,77,89,6853,0,0
+Amul Milk 500ml,Dairy,Chennai,80,80,297,23760,0,0
+Oreo Biscuits,Snacks,Delhi,128,128,263,33664,0,0
+Aashirvaad Atta,Grocery,Delhi,67,82,258,21156,3870,15
+Coca Cola 1L,Beverages,Bangalore,77,82,87,7134,435,5
+Britannia Cake,Snacks,Chennai,142,152,184,27968,1840,10
+Fortune Oil 1L,Grocery,Mumbai,88,103,56,5768,840,15
+Britannia Cake,Snacks,Hyderabad,167,172,252,43344,1260,5
+Aashirvaad Atta,Grocery,Hyderabad,109,119,161,19159,1610,10
+Nestle Munch,Confectionery,Chennai,161,171,226,38646,2260,10
+Aashirvaad Atta,Grocery,Chennai,93,108,107,11556,1605,15
+Parle-G,Snacks,Pune,93,93,106,9858,0,0
+Britannia Cake,Snacks,Hyderabad,198,203,188,38164,940,5
+Pepsi 500ml,Beverages,Chennai,161,161,211,33971,0,0
+Britannia Cake,Snacks,Mumbai,86,91,70,6370,350,5
+Parle-G,Snacks,Mumbai,148,163,79,12877,1185,15
+Fortune Oil 1L,Grocery,Bangalore,143,153,299,45747,2990,10
+Parle-G,Snacks,Chennai,71,81,61,4941,610,10
+Nestle Munch,Confectionery,Pune,151,151,219,33069,0,0
+Parle-G,Snacks,Pune,196,201,112,22512,560,5
+Pepsi 500ml,Beverages,Chennai,160,175,56,9800,840,15
+Maggi Noodles,Instant Food,Chennai,115,120,226,27120,1130,5
+Britannia Cake,Snacks,Hyderabad,92,102,99,10098,990,10
+Nestle Munch,Confectionery,Mumbai,107,112,117,13104,585,5
+Parle-G,Snacks,Pune,88,98,259,25382,2590,10
+Pepsi 500ml,Beverages,Pune,113,113,114,12882,0,0
+Fortune Oil 1L,Grocery,Bangalore,54,54,141,7614,0,0
+Fortune Oil 1L,Grocery,Bangalore,173,178,159,28302,795,5
+Britannia Cake,Snacks,Chennai,75,90,100,9000,1500,15
+Parle-G,Snacks,Delhi,48,58,112,6496,1120,10
+Oreo Biscuits,Snacks,Mumbai,34,44,284,12496,2840,10
+Amul Milk 500ml,Dairy,Hyderabad,93,103,103,10609,1030,10
+Pepsi 500ml,Beverages,Pune,55,55,271,14905,0,0
+Parle-G,Snacks,Bangalore,36,51,139,7089,2085,15
+Oreo Biscuits,Snacks,Mumbai,41,51,123,6273,1230,10
+Pepsi 500ml,Beverages,Hyderabad,162,172,184,31648,1840,10
+Pepsi 500ml,Beverages,Pune,146,151,273,41223,1365,5
+Aashirvaad Atta,Grocery,Pune,41,41,152,6232,0,0
+Coca Cola 1L,Beverages,Delhi,74,84,197,16548,1970,10
+Maggi Noodles,Instant Food,Delhi,153,163,143,23309,1430,10
+Coca Cola 1L,Beverages,Bangalore,147,157,133,20881,1330,10
+Aashirvaad Atta,Grocery,Pune,67,82,192,15744,2880,15
+Maggi Noodles,Instant Food,Pune,76,91,156,14196,2340,15
+Aashirvaad Atta,Grocery,Bangalore,131,146,87,12702,1305,15
+Maggi Noodles,Instant Food,Hyderabad,165,165,124,20460,0,0
+Fortune Oil 1L,Grocery,Hyderabad,143,148,60,8880,300,5
+Aashirvaad Atta,Grocery,Pune,49,49,60,2940,0,0
+Nestle Munch,Confectionery,Pune,154,159,224,35616,1120,5
+Coca Cola 1L,Beverages,Pune,65,75,183,13725,1830,10
+Amul Milk 500ml,Dairy,Delhi,69,74,224,16576,1120,5
+Nestle Munch,Confectionery,Bangalore,181,191,273,52143,2730,10
+Coca Cola 1L,Beverages,Chennai,30,45,262,11790,3930,15
+Britannia Cake,Snacks,Pune,149,164,80,13120,1200,15
+Britannia Cake,Snacks,Mumbai,177,192,253,48576,3795,15
+Aashirvaad Atta,Grocery,Delhi,76,76,240,18240,0,0
+Amul Milk 500ml,Dairy,Pune,169,169,270,45630,0,0
+Amul Milk 500ml,Dairy,Pune,166,171,130,22230,650,5
+Coca Cola 1L,Beverages,Mumbai,161,161,165,26565,0,0
+Aashirvaad Atta,Grocery,Mumbai,86,101,139,14039,2085,15
+Maggi Noodles,Instant Food,Chennai,138,153,213,32589,3195,15
+Pepsi 500ml,Beverages,Pune,129,139,69,9591,690,10
+Amul Milk 500ml,Dairy,Bangalore,103,118,215,25370,3225,15
+Maggi Noodles,Instant Food,Chennai,43,58,137,7946,2055,15
+Coca Cola 1L,Beverages,Hyderabad,135,140,179,25060,895,5
+Maggi Noodles,Instant Food,Chennai,167,182,180,32760,2700,15
+Parle-G,Snacks,Pune,30,35,83,2905,415,5
+Aashirvaad Atta,Grocery,Hyderabad,113,113,73,8249,0,0
+Fortune Oil 1L,Grocery,Mumbai,27,27,116,3132,0,0
+Nestle Munch,Confectionery,Chennai,187,197,94,18518,940,10
+Nestle Munch,Confectionery,Bangalore,136,151,119,17969,1785,15
+Amul Milk 500ml,Dairy,Mumbai,23,28,287,8036,1435,5
+Nestle Munch,Confectionery,Hyderabad,159,164,91,14924,455,5
+Aashirvaad Atta,Grocery,Chennai,81,91,95,8645,950,10
+Oreo Biscuits,Snacks,Delhi,97,112,147,16464,2205,15
+Maggi Noodles,Instant Food,Bangalore,128,128,70,8960,0,0
+Maggi Noodles,Instant Food,Mumbai,139,139,143,19877,0,0
+Britannia Cake,Snacks,Pune,131,141,154,21714,1540,10
+Oreo Biscuits,Snacks,Bangalore,74,79,257,20303,1285,5
+Parle-G,Snacks,Delhi,43,43,94,4042,0,0
+Oreo Biscuits,Snacks,Pune,81,81,154,12474,0,0
+Amul Milk 500ml,Dairy,Mumbai,59,64,111,7104,555,5
+Oreo Biscuits,Snacks,Mumbai,76,76,238,18088,0,0
+Coca Cola 1L,Beverages,Mumbai,140,155,259,40145,3885,15
+Parle-G,Snacks,Hyderabad,63,78,106,8268,1590,15
+Nestle Munch,Confectionery,Bangalore,181,186,108,20088,540,5
+Fortune Oil 1L,Grocery,Hyderabad,129,144,204,29376,3060,15
+Pepsi 500ml,Beverages,Bangalore,24,29,137,3973,685,5
+Coca Cola 1L,Beverages,Delhi,82,87,77,6699,385,5
+Nestle Munch,Confectionery,Mumbai,87,92,255,23460,1275,5
+Coca Cola 1L,Beverages,Bangalore,174,184,129,23736,1290,10
+Amul Milk 500ml,Dairy,Delhi,63,63,178,11214,0,0
+Oreo Biscuits,Snacks,Chennai,149,159,269,42771,2690,10
+Nestle Munch,Confectionery,Hyderabad,119,119,230,27370,0,0
+Britannia Cake,Snacks,Delhi,106,116,115,13340,1150,10
+Coca Cola 1L,Beverages,Hyderabad,85,90,195,17550,975,5
+Fortune Oil 1L,Grocery,Bangalore,129,139,195,27105,1950,10
+Maggi Noodles,Instant Food,Pune,80,85,67,5695,335,5
+Parle-G,Snacks,Delhi,184,194,271,52574,2710,10
+Oreo Biscuits,Snacks,Delhi,163,178,214,38092,3210,15
+Coca Cola 1L,Beverages,Delhi,175,190,288,54720,4320,15
+Coca Cola 1L,Beverages,Chennai,72,82,105,8610,1050,10
+Maggi Noodles,Instant Food,Bangalore,160,165,157,25905,785,5
+Fortune Oil 1L,Grocery,Bangalore,132,142,225,31950,2250,10
+Nestle Munch,Confectionery,Hyderabad,69,69,243,16767,0,0
+Nestle Munch,Confectionery,Delhi,75,80,107,8560,535,5
+Coca Cola 1L,Beverages,Hyderabad,180,185,226,41810,1130,5
+Fortune Oil 1L,Grocery,Hyderabad,147,152,105,15960,525,5
+Pepsi 500ml,Beverages,Chennai,59,64,229,14656,1145,5
+Aashirvaad Atta,Grocery,Bangalore,113,128,90,11520,1350,15
+Maggi Noodles,Instant Food,Pune,40,50,104,5200,1040,10
+Parle-G,Snacks,Bangalore,75,80,108,8640,540,5
+Maggi Noodles,Instant Food,Hyderabad,26,36,184,6624,1840,10
+Aashirvaad Atta,Grocery,Hyderabad,51,61,161,9821,1610,10
+Parle-G,Snacks,Bangalore,101,111,85,9435,850,10
+Nestle Munch,Confectionery,Hyderabad,175,190,80,15200,1200,15
+Nestle Munch,Confectionery,Pune,21,21,87,1827,0,0
+Maggi Noodles,Instant Food,Delhi,117,132,129,17028,1935,15
+Aashirvaad Atta,Grocery,Pune,70,75,270,20250,1350,5
+Fortune Oil 1L,Grocery,Bangalore,107,107,193,20651,0,0
+Maggi Noodles,Instant Food,Pune,198,213,136,28968,2040,15
+Parle-G,Snacks,Pune,161,161,188,30268,0,0
+Nestle Munch,Confectionery,Hyderabad,137,147,211,31017,2110,10
+Maggi Noodles,Instant Food,Hyderabad,45,55,84,4620,840,10
+Nestle Munch,Confectionery,Bangalore,191,206,297,61182,4455,15
+Maggi Noodles,Instant Food,Pune,125,130,214,27820,1070,5
+Amul Milk 500ml,Dairy,Chennai,171,186,60,11160,900,15
+Fortune Oil 1L,Grocery,Pune,57,72,196,14112,2940,15
+Parle-G,Snacks,Pune,56,56,251,14056,0,0
+Aashirvaad Atta,Grocery,Bangalore,70,70,218,15260,0,0
+Aashirvaad Atta,Grocery,Mumbai,57,67,131,8777,1310,10
+Parle-G,Snacks,Hyderabad,104,114,255,29070,2550,10
+Coca Cola 1L,Beverages,Delhi,82,87,180,15660,900,5
+Fortune Oil 1L,Grocery,Delhi,119,129,164,21156,1640,10
+Parle-G,Snacks,Delhi,48,58,244,14152,2440,10
+Amul Milk 500ml,Dairy,Mumbai,88,93,72,6696,360,5
+Nestle Munch,Confectionery,Pune,32,32,67,2144,0,0
+Nestle Munch,Confectionery,Mumbai,31,46,161,7406,2415,15
+Maggi Noodles,Instant Food,Pune,125,140,283,39620,4245,15
+Parle-G,Snacks,Bangalore,134,144,190,27360,1900,10
+Britannia Cake,Snacks,Pune,198,198,52,10296,0,0
+Amul Milk 500ml,Dairy,Hyderabad,131,146,146,21316,2190,15
+Oreo Biscuits,Snacks,Delhi,171,176,291,51216,1455,5
+Amul Milk 500ml,Dairy,Mumbai,94,99,124,12276,620,5
+Parle-G,Snacks,Chennai,129,129,272,35088,0,0
